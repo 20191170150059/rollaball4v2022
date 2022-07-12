@@ -62,8 +62,6 @@ public class PlayerControlle : MonoBehaviour
             }
         }
     }
-    
-    S
     private void Mover()
     {
         Vector3 camForward = _mainCamara.transform.forward;
